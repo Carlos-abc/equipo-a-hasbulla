@@ -1,1 +1,1 @@
-print("Hola, soy Carlos Daniel Amezquita Becerra, mucho gusto es un placer que me conozcan")
+print("Hola, soy Carlos Daniel Amezquita Becerra")
